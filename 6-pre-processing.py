@@ -1,7 +1,6 @@
 #%%
 import pandas as pd
 from sklearn import preprocessing
-import matplotlib.pyplot as plt
 import numpy as np
 
 url = 'https://raw.githubusercontent.com/jbrownlee/Datasets/master/winequality-white.csv'
